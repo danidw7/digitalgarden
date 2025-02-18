@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/who-am-i/main-page/","title":"Who am I","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-17T02:15:09.897+09:00","updated":"2025-02-19T00:14:05.172+09:00"}
+{"dg-publish":true,"permalink":"/who-am-i/main-page/","title":"Who am I","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-17T02:15:09.897+09:00","updated":"2025-02-19T00:22:37.884+09:00"}
 ---
 
 --
 
 
-teehee
 # Duwon artwork
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
