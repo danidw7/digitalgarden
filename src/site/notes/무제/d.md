@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//d/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-17T02:15:09.897+09:00","updated":"2025-02-18T22:48:39.508+09:00"}
+{"dg-publish":true,"permalink":"//d/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-17T02:15:09.897+09:00","updated":"2025-02-18T22:56:28.589+09:00"}
 ---
 
 --
@@ -10,10 +10,10 @@
 </p>
 
 Hello there! yes!
-<img src="{{ site.baseurl }}/assets/Pasted image 20250217231431.png"/>
+<img src="{{ site.baseurl }}/assets/Pasted image 20250217231431"/>
 
 <strong>Recently updated notes</strong>
-
+dd
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 5 %}
