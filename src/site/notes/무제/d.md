@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//d/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-17T02:15:09.897+09:00","updated":"2025-02-18T23:10:23.503+09:00"}
+{"dg-publish":true,"permalink":"//d/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-17T02:15:09.897+09:00","updated":"2025-02-18T23:41:43.280+09:00"}
 ---
 
 --
@@ -10,10 +10,11 @@
 </p>
 
 Hello there! yes!
-<img src="{{ site.baseurl }}/assets/Pasted image 20250217231431"/>
+<img src="{{ site.baseurl }}/assets/dudu.png"/>
+<img src="{{ /assets/dudu.png"/>
 
-![dudu.png]
-<source src="{{ Pasted image 20250217231431">
+
+![Pasted image 20250218231236.png](/img/user/Pasted%20image%2020250218231236.png)
 
 <strong>Recently updated notes</strong>
 dd
