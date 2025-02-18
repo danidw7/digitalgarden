@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/who-am-i/main-page/","title":"Who am I","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-17T02:15:09.897+09:00","updated":"2025-02-19T00:09:13.023+09:00"}
+{"dg-publish":true,"permalink":"/who-am-i/main-page/","title":"Who am I","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-17T02:15:09.897+09:00","updated":"2025-02-19T00:14:05.172+09:00"}
 ---
 
 --
-# Hello I'm Duwon
+
+
+teehee
+# Duwon artwork
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note\|Your first note]]</span> to get started on your exploration.
@@ -12,7 +15,7 @@
 Hello there! yes!
 
 
-![assets/Pasted image 20250218231236.png](/img/user/assets/Pasted%20image%2020250218231236.png)
+![Pasted image 20250218231236.png](/img/user/Pasted%20image%2020250218231236.png)
 
 <strong>Recently updated notes</strong>
 dd
