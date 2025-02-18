@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//d/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-17T02:15:09.897+09:00","updated":"2025-02-18T23:03:25.029+09:00"}
+{"dg-publish":true,"permalink":"//d/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-17T02:15:09.897+09:00","updated":"2025-02-18T23:10:23.503+09:00"}
 ---
 
 --
@@ -11,6 +11,9 @@
 
 Hello there! yes!
 <img src="{{ site.baseurl }}/assets/Pasted image 20250217231431"/>
+
+![dudu.png]
+<source src="{{ Pasted image 20250217231431">
 
 <strong>Recently updated notes</strong>
 dd
